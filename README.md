@@ -1,1 +1,2 @@
-# Homework-3
+Added a series of confirm prompts to specify criteria to be used in gernerating a random password. Once the user makes their selections, their choices are ran through cascading else if statements until the respective choices match the statement. You are then presented with an alert that displays your unique password.
+![image](https://user-images.githubusercontent.com/85306141/125888577-d67262c2-670e-44de-b24b-cd6c8a3d9c70.png)
